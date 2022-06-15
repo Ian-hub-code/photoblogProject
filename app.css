@@ -1,0 +1,14 @@
+ /* using some basic math to distribute space between images*/
+img {
+    width: 30%;
+    margin:calc(10%/6);
+}
+
+nav{
+    width:30%;
+    text-transform: uppercase;
+    border-bottom:2px solid #f1f1f1;
+    margin-left:calc(10%/6);
+    padding:20px 0;
+    font-family: Raleway,sans-serif;
+}
